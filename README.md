@@ -1,3 +1,3 @@
 Git Tutorial
-MatteO Pointon Modiano
+Matteo Pointon Modiano
 UChicago Student Resource Guide
